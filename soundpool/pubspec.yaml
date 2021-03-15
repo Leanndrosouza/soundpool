@@ -15,7 +15,11 @@ dependencies:
   
   soundpool_web: ^1.0.1
   
-  soundpool_macos: ^0.2.6
+  soundpool_macos:
+    git:
+      url: https://github.com/Leanndrosouza/soundpool
+      ref: master
+      path: soundpool_macos
     
     
 flutter:
