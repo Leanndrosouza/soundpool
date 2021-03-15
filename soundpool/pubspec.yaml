@@ -11,7 +11,7 @@ dependencies:
   flutter:
     sdk: flutter
 
-  soundpool_platform_interface: ^1.0.1
+  soundpool_platform_interface: ^2.0.0-nullsafety.0
   
   soundpool_web: ^1.0.1
   
